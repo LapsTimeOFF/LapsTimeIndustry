@@ -1,0 +1,35 @@
+{
+  "name": "lapstimeindustry",
+  "version": "0.0.0-dev.0-beta",
+  "description": "",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LapsTimeOFF/LapsTimeIndustry.git"
+  },
+  "keywords": [
+    "js",
+    "vuejs"
+  ],
+  "author": {
+    "LapsTime": {
+      "name": "LapsTime",
+      "email": "contactgrlaps@gmail.com"
+    },
+    "Natourou": {
+      "name": "Natourou",
+      "youtube": "Natourou"
+    },
+    "LuckyX": {
+      "name": "LuckyX"
+    }
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LapsTimeOFF/LapsTimeIndustry/issues"
+  },
+  "homepage": "https://github.com/LapsTimeOFF/LapsTimeIndustry#readme"
+}
