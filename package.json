@@ -4,7 +4,8 @@
   "description": "",
   "main": "server/index.js",
   "scripts": {
-    "test": "nodemon"
+    "test": "nodemon",
+    "version": "0.0.0-dev.0-beta"
   },
   "repository": {
     "type": "git",
@@ -31,5 +32,15 @@
   "bugs": {
     "url": "https://github.com/LapsTimeOFF/LapsTimeIndustry/issues"
   },
-  "homepage": "https://github.com/LapsTimeOFF/LapsTimeIndustry#readme"
+  "homepage": "https://github.com/LapsTimeOFF/LapsTimeIndustry#readme",
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-plugin-vue": "^7.2.0",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "morgan": "^1.10.0"
+  }
 }
